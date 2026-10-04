@@ -1,84 +1,77 @@
-<h2 align="center">
-  Hello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<h1 align="center">
+  Hi, I'm Adarsh Dhiman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<!-- Intro  -->
 <h3 align="center">
-  <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://www.adarshdhiman.me">Adarsh Dhiman</a></b>
-  </samp>
+  <samp>&gt; Founder & System Architect @ Stack Approach Technologies </samp>
 </h3>
+
 <p align="center"> 
   <a href="https://github.com/adarshdhiman75066">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Web%20Developer;1.5%2B%20years%20of%20coding%20experience;Entrepreneur;CSE%20Student;Always%20learning%20new%20things;&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Architect;Full-Stack+Engineer+(FastAPI/React);Linux+Server+Administrator;Founder+@+Stack+Approach;&center=true&width=450&height=45">
   </a>
 </p>
 
 <p align="center"> 
   <samp>
-   <a href="https://www.google.com/search?q=adarsh+dhiman" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Me-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Me"/>
-</a>
-
-   
+    <a href="https://www.google.com/search?q=adarsh+dhiman" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Me-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Me"/>
+    </a>
   </samp>
 </p>
 
 <p align="center">
-  <a href="https://www.adarshdhiman.me" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Adarsh Portfolio"/>
-</a>
-<br>
-  <br>
+  
   <a href="https://linkedin.com/in/adarsh-dhiman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adarsh"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adarsh LinkedIn"/>
   </a>
-  <!-- <a href="https://dev.to/Adarsh" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Adarsh" />
-  </a> -->
 </p>
 <br />
 
-<!-- About Section -->
-# About me
+## 🚀 About My Operations
 
-<p>
-  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
-  
-  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-  📧 &emsp; Reach me anytime: adarsh.dhiman4562@outlook.com <br/><br/>
-  💬 &emsp; Ask me about anything [here](https://github.com/adarshdhiman75066)
-</p>
+I specialize in engineering scalable REST APIs, designing normalized relational databases, and deploying bare-metal Linux server infrastructures. Currently building enterprise-grade tools and systems.
+
+- 🔭 **I’m currently working on:** **StitchFlow**, a full-stack AI-enabled ERP system for tailoring businesses.
+- 🌱 **I’m currently learning:** Advanced Docker containerization and CI/CD pipelines.
+- 👯 **I’m looking to collaborate on:** Open-source Python backend infrastructure and self-hosted Linux deployments.
+- 💬 **Ask me about:** FastAPI backends, React.js UI, MySQL schema design, and bypassing NAT with Cloudflare Tunnels.
+- ⚡ **Fun fact:** I repurposed a legacy Lenovo laptop into a headless Debian 12 NAS server, accessible globally without port forwarding.
+- 📧 **Reach out:** adarshdhiman75066@gmail.com
 
 <br/>
-<br/>
-<br/>
 
-## Use To Code
+## 🛠️ The Hardware & Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Core Architecture & Backend** <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend & UI** <br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Infrastructure & Tooling** <br/>
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br/>
 
-## My Projects
+## 📁 Featured Deployments
 
-[![Krishna Global Visa](https://www.dhimanindustries.tech/kgv.png)](https://www.krishnaglobalvisa.in/)
-[![Socio](https://www.dhimanindustries.tech/socio.png)](https://www.socio.ltd/)
-[![Prem Cloth House](https://www.dhimanindustries.tech/pch.png)](https://adarshdhiman75066.github.io/PCH/)
-[![Venus Digi](https://www.dhimanindustries.tech/venus.png)](https://venusdigi.netlify.app/)
+### 1. StitchFlow (AI-Powered Tailor ERP)
+Full-stack ERP system managing order lifecycles, advanced dynamic measurements, and fabric inventory. Powered by a FastAPI REST backend, React.js frontend, and 8 interdependent MySQL schemas.
 
+### 2. Cipher Node (Self-Hosted Cloud Server)
+Headless Debian 12 NAS built on legacy hardware. Integrated with Samba, FastAPI, Uvicorn, and securely routed globally via Cloudflare Tunnels and Tailscale.
+
+<br/>
 
 <p align="center">
-  <a href="https://www.dhimanindustries.tech/projects">「 View More 」</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshdhiman75066&show_icons=true&theme=radical" alt="Adarsh's GitHub Stats" />
 </p>
 
-<br/>
-<hr/>
-<br/>
